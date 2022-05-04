@@ -1,3 +1,4 @@
-"p1":"Alice"
-"p2":"Bob"
-"p3":"Margaret"
+"name":"Gerasimenko Alina Borisovna"
+"age":"29"
+"pets":"1"
+"salary":"100000"
